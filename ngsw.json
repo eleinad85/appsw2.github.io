@@ -1,0 +1,87 @@
+{
+  "configVersion": 1,
+  "timestamp": 1612864982228,
+  "index": "https://eleinad85.github.io/appsw/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://eleinad85.github.io/appsw/favicon.ico",
+        "https://eleinad85.github.io/appsw/index.html",
+        "https://eleinad85.github.io/appsw/main.1ed627d551a777fae84b.js",
+        "https://eleinad85.github.io/appsw/manifest.webmanifest",
+        "https://eleinad85.github.io/appsw/polyfills.6abdde2583a2e01a2350.js",
+        "https://eleinad85.github.io/appsw/runtime.7b63b9fd40098a2e8207.js",
+        "https://eleinad85.github.io/appsw/styles.39094e7429fe49f24313.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://eleinad85.github.io/appsw/assets/icons/icon-128x128.png",
+        "https://eleinad85.github.io/appsw/assets/icons/icon-144x144.png",
+        "https://eleinad85.github.io/appsw/assets/icons/icon-152x152.png",
+        "https://eleinad85.github.io/appsw/assets/icons/icon-192x192.png",
+        "https://eleinad85.github.io/appsw/assets/icons/icon-384x384.png",
+        "https://eleinad85.github.io/appsw/assets/icons/icon-512x512.png",
+        "https://eleinad85.github.io/appsw/assets/icons/icon-72x72.png",
+        "https://eleinad85.github.io/appsw/assets/icons/icon-96x96.png",
+        "https://eleinad85.github.io/appsw/assets/immagini/an.png",
+        "https://eleinad85.github.io/appsw/assets/immagini/react.jpg",
+        "https://eleinad85.github.io/appsw/assets/immagini/v.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://eleinad85.github.io/appsw/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://eleinad85.github.io/appsw/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://eleinad85.github.io/appsw/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://eleinad85.github.io/appsw/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://eleinad85.github.io/appsw/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://eleinad85.github.io/appsw/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://eleinad85.github.io/appsw/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://eleinad85.github.io/appsw/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://eleinad85.github.io/appsw/assets/immagini/an.png": "26831ee1f8292d2ffe1e84221059bd2aba40a314",
+    "https://eleinad85.github.io/appsw/assets/immagini/react.jpg": "d2ad17da501021c8b5002e9488d0756e2dc83b70",
+    "https://eleinad85.github.io/appsw/assets/immagini/v.png": "537b355c57a839adeb3d1cbe2e58c9cf855d6105",
+    "https://eleinad85.github.io/appsw/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://eleinad85.github.io/appsw/index.html": "73b867fd7023dc22807cf398bc4c8a8608e24b13",
+    "https://eleinad85.github.io/appsw/main.1ed627d551a777fae84b.js": "3cee7bcea9c153cd313e32e03942cf45f0c8bfc3",
+    "https://eleinad85.github.io/appsw/manifest.webmanifest": "38a8a617dc269ad499404b9f6492945f26254dd7",
+    "https://eleinad85.github.io/appsw/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
+    "https://eleinad85.github.io/appsw/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://eleinad85.github.io/appsw/styles.39094e7429fe49f24313.css": "0bd4d51eff864fc1a73986562dfe8dd0a12e06c1"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
